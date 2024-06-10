@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZeeshanDaddy
+- 👋 Hi, I’m @ZDesigns
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning c++.
 - 💞️ I’m looking for further learning.
